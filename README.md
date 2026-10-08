@@ -5,7 +5,7 @@ Content is added one section at a time, as I learn it.
 
 - [`research-list.md`](research-list.md): the full research brief and the 10-section list I am working through.
 - [`notes/01_rules.md`](notes/01_rules.md): section 1, Rules (10 short parts, finished).
-- [`notes/01_rules_quiz.md`](notes/01_rules_quiz.md): section 1 quiz, my answers and results (in progress, 8 of 10 done).
+- [`notes/01_rules_quiz.md`](notes/01_rules_quiz.md): section 1 quiz, my answers and results (done, 10 of 10).
 
 ## Progress
 

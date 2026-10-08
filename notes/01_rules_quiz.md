@@ -36,7 +36,12 @@ Ten questions on the section 1 notes (`01_rules.md`). Answers are in my own word
 **Result:** Correct. A Belleville washer is still useful for keeping clamp force, so you may use it alongside a positive lock.
 
 ## 9. Why can't a contactor count as a maintenance plug, and how many plugs does the 6-segment pack need?
-**My answer:** (to be answered)
+**My answer:** a contactor can fail closed; 7 plugs.
+**Result:** Correct. 7 means seven separation points (five between the six segments plus the two pack ends). The rule needs separation at both poles, and one connector can do both, so the number of physical connectors depends on the part chosen and the FS 2026 text.
 
 ## 10. Name two things the ESF must justify about the temperature sensors.
-**My answer:** (not yet asked)
+**My answer:** where they sit and the measurement error.
+**Result:** Correct. If adhesive is used, the derating of the trip temperature must be written down too.
+
+## Score
+10 out of 10 correct.
